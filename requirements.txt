@@ -1,0 +1,4 @@
+google-cloud-geminidataanalytics>=0.1.0
+google-cloud-aiplatform>=1.36.0
+pyyaml>=6.0
+flask>=2.0

@@ -1,0 +1,14 @@
+gcp_project_id: gcp_project_id
+gcp_project_number: '123456'
+dataset_id: retail_dataset
+catalog_table_id: my_catalog
+events_table_id: my_events
+schema_type: import table schema
+agent_display_name: AI Commerce Search Data Audit and A/B test helper agent (installed
+  via script)
+location: global
+agent_description: This agent helps you to perform data audits (catalog and user events)
+  and analysis during A/B test. You can ask it any search perofrmance or data optimization
+  related query in natual language.
+sql_directory: ./verified_queries
+instructions_file: ./system_instructions.md
